@@ -1,0 +1,201 @@
+driver_id,full_name,car_model,join_date,rating,is_active
+DRV-0001,Jasur Hamidov,Chevrolet Cobalt,2021-08-31,4.76,True
+DRV-0002,Oybek Ortiqov,Chevrolet Gentra,2024-08-31,4.72,True
+DRV-0003,Ulugbek Bakirov,Chevrolet Gentra,2020-04-05,4.62,True
+DRV-0004,Rustam Xolmatov,Chevrolet Malibu,2023-01-23,4.84,False
+DRV-0005,Oybek Hamidov,Chevrolet Tracker,2022-12-24,4.88,True
+DRV-0006,Anvar Abdullayev,Chevrolet Gentra,2025-08-21,4.65,True
+DRV-0007,Farrukh Tojiboyev,Chevrolet Malibu,2025-09-24,4.69,False
+DRV-0008,Farrukh Bakirov,Chevrolet Malibu,2025-01-16,4.72,True
+DRV-0009,Aziz Umarov,Chevrolet Nexia 3,2025-08-13,4.93,True
+DRV-0010,Jasur Hamidov,Chevrolet Cobalt,2026-02-20,4.44,True
+DRV-0011,Bekzod Yusupov,Chevrolet Cobalt,2026-09-21,4.91,True
+DRV-0012,Farrukh Jumaniyozov,Chevrolet Tracker,2026-09-03,4.97,False
+DRV-0013,Farrukh Umarov,Chevrolet Gentra,2024-01-07,4.82,True
+DRV-0014,Alisher Abdullayev,Chevrolet Malibu,2024-04-19,4.36,False
+DRV-0015,Islom Nazarov,Chevrolet Tracker,2024-05-24,4.69,True
+DRV-0016,Bobur Jumaniyozov,Chevrolet Malibu,2022-06-01,4.88,True
+DRV-0017,Sardor Hamidov,Chevrolet Tracker,2023-12-08,4.5,False
+DRV-0018,Timur Saidov,Chevrolet Nexia 3,2020-03-30,4.46,True
+DRV-0019,Bekzod Karimov,Chevrolet Malibu,2025-09-03,4.55,True
+DRV-0020,Alisher Nazarov,Chevrolet Malibu,2019-08-30,4.81,True
+DRV-0021,Akmal Mirzayev,BYD Song Plus,2026-08-13,4.83,True
+DRV-0022,Javlon Umarov,Chevrolet Spark,2025-04-13,4.94,True
+DRV-0023,Aydos Hamidov,Chevrolet Gentra,2026-08-29,4.95,True
+DRV-0024,Aydos Ortiqov,Chevrolet Cobalt,2023-07-17,4.87,True
+DRV-0025,Farrukh Karimov,Chevrolet Gentra,2019-12-26,4.59,True
+DRV-0026,Feruza Karimova,Chevrolet Cobalt,2022-11-02,4.69,False
+DRV-0027,Kamol Umarov,Chevrolet Nexia 3,2026-02-05,4.92,True
+DRV-0028,Bekzod Sobirov,Chevrolet Cobalt,2025-11-14,4.77,True
+DRV-0029,Sardor Rahimov,Chevrolet Onix,2019-09-02,4.78,True
+DRV-0030,Murod Nazarov,Chevrolet Tracker,2019-05-23,4.44,True
+DRV-0031,Javlon Hamidov,Chevrolet Gentra,2020-12-16,4.87,True
+DRV-0032,Doston Jumaniyozov,Chevrolet Cobalt,2023-06-17,4.64,True
+DRV-0033,Aydos Umarov,Chevrolet Cobalt,2022-05-22,4.63,True
+DRV-0034,Nodir Yusupov,Chevrolet Cobalt,2022-03-26,4.75,True
+DRV-0035,Davron Tursunov,Chevrolet Malibu,2022-11-13,4.61,True
+DRV-0036,Timur Ismoilov,Chevrolet Spark,2020-12-02,4.9,True
+DRV-0037,Anvar Nazarov,Chevrolet Onix,2022-04-22,4.88,True
+DRV-0038,Murod Ergashev,Chevrolet Gentra,2025-05-24,4.6,True
+DRV-0039,Murod Sobirov,Chevrolet Spark,2019-11-03,4.5,False
+DRV-0040,Rustam Yusupov,Chevrolet Onix,2025-10-03,4.58,False
+DRV-0041,Aziz Saidov,Chevrolet Cobalt,2023-10-12,4.66,False
+DRV-0042,Malika Karimova,Chevrolet Tracker,2019-06-03,4.63,True
+DRV-0043,Bekzod Mirzayev,Chevrolet Cobalt,2025-12-21,4.79,True
+DRV-0044,Sherzod Rashidov,Chevrolet Onix,2025-10-28,4.43,True
+DRV-0045,Murod Mirzayev,BYD Song Plus,2021-12-25,4.91,True
+DRV-0046,Ulugbek Sobirov,BYD Song Plus,2022-11-13,4.69,True
+DRV-0047,Aydos Yusupov,BYD Song Plus,2022-09-27,4.88,True
+DRV-0048,Oybek Nazarov,Chevrolet Cobalt,2020-06-04,4.95,True
+DRV-0049,Davron Hamidov,Chevrolet Cobalt,2026-07-08,4.43,True
+DRV-0050,Otabek Sobirov,Chevrolet Nexia 3,2023-11-19,4.53,False
+DRV-0051,Shoxrux Karimov,Chevrolet Spark,2025-05-20,4.58,True
+DRV-0052,Feruza Karimova,Chevrolet Cobalt,2023-11-06,4.55,True
+DRV-0053,Sardor Ortiqov,Chevrolet Cobalt,2025-05-13,4.94,True
+DRV-0054,Nodir Saidov,Chevrolet Malibu,2022-09-21,4.89,True
+DRV-0055,Otabek Qodirov,Chevrolet Malibu,2024-11-12,4.81,True
+DRV-0056,Timur Rashidov,Chevrolet Tracker,2021-10-08,4.92,True
+DRV-0057,Davron Mirzayev,Chevrolet Cobalt,2024-04-17,4.9,True
+DRV-0058,Sardor Ortiqov,Chevrolet Nexia 3,2026-03-16,4.88,True
+DRV-0059,Nodir Mirzayev,Chevrolet Nexia 3,2023-09-28,4.35,False
+DRV-0060,Rustam Mirzayev,Chevrolet Gentra,2020-09-16,4.49,False
+DRV-0061,Anvar Jumaniyozov,Chevrolet Cobalt,2025-09-10,4.92,True
+DRV-0062,Nodir Jumaniyozov,Chevrolet Cobalt,2026-05-21,4.71,True
+DRV-0063,Akmal Abdullayev,BYD Song Plus,2025-04-20,4.51,True
+DRV-0064,Ulugbek Nazarov,Chevrolet Cobalt,2022-06-22,4.8,True
+DRV-0065,Davron Nazarov,Chevrolet Nexia 3,2019-04-08,4.96,True
+DRV-0066,Zafar Mirzayev,Chevrolet Onix,2025-03-10,4.93,True
+DRV-0067,Aziz Jumaniyozov,Chevrolet Gentra,2020-06-20,4.57,True
+DRV-0068,Doston Karimov,Chevrolet Tracker,2023-04-16,4.82,True
+DRV-0069,Akmal Qodirov,Chevrolet Gentra,2024-08-05,4.8,True
+DRV-0070,Davron Saidov,Chevrolet Malibu,2020-06-24,4.48,True
+DRV-0071,Timur Hamidov,Chevrolet Tracker,2024-04-10,4.53,False
+DRV-0072,Zafar Tursunov,Chevrolet Cobalt,2022-08-30,4.47,True
+DRV-0073,Akmal Sobirov,Chevrolet Onix,2022-10-12,4.57,False
+DRV-0074,Sherzod Rashidov,Chevrolet Onix,2024-05-09,4.9,True
+DRV-0075,Kamol Mirzayev,Chevrolet Onix,2023-06-11,4.68,True
+DRV-0076,Akmal Abdullayev,Chevrolet Nexia 3,2020-06-25,4.79,True
+DRV-0077,Rustam Abdullayev,Chevrolet Malibu,2021-10-15,4.73,True
+DRV-0078,Bekzod Saidov,Chevrolet Cobalt,2026-04-06,4.87,True
+DRV-0079,Murod Sobirov,Chevrolet Cobalt,2024-09-16,4.85,False
+DRV-0080,Aydos Jumaniyozov,Chevrolet Malibu,2023-02-10,4.94,True
+DRV-0081,Nigora Ismoilova,Chevrolet Cobalt,2020-08-16,4.71,True
+DRV-0082,Islom Umarov,Chevrolet Onix,2022-12-17,4.72,True
+DRV-0083,Zafar Saidov,Chevrolet Spark,2021-07-04,4.82,True
+DRV-0084,Malika Mirzayeva,Chevrolet Gentra,2025-03-16,4.81,True
+DRV-0085,Sherzod Qodirov,BYD Song Plus,2025-12-16,4.56,False
+DRV-0086,Murod Sobirov,Chevrolet Onix,2025-10-07,4.49,False
+DRV-0087,Malika Sobirova,Chevrolet Cobalt,2024-06-10,4.64,False
+DRV-0088,Islom Bakirov,Chevrolet Cobalt,2022-10-30,4.68,False
+DRV-0089,Timur Karimov,Chevrolet Cobalt,2022-01-03,4.75,True
+DRV-0090,Farrukh Hamidov,Chevrolet Nexia 3,2022-07-28,4.69,True
+DRV-0091,Davron Tursunov,Chevrolet Cobalt,2026-07-30,4.72,True
+DRV-0092,Nodir Umarov,Chevrolet Gentra,2025-01-07,4.9,True
+DRV-0093,Shoxrux Mirzayev,Chevrolet Nexia 3,2021-02-12,4.83,True
+DRV-0094,Farrukh Hamidov,BYD Song Plus,2026-03-26,4.95,True
+DRV-0095,Aydos Tojiboyev,Chevrolet Gentra,2024-11-09,4.6,False
+DRV-0096,Anvar Saidov,Chevrolet Cobalt,2024-08-22,4.6,True
+DRV-0097,Farrukh Mirzayev,Chevrolet Onix,2025-02-18,4.9,True
+DRV-0098,Javlon Jumaniyozov,Chevrolet Gentra,2020-10-10,4.55,True
+DRV-0099,Bobur Rahimov,Chevrolet Malibu,2022-04-22,4.83,True
+DRV-0100,Anvar Saidov,BYD Song Plus,2023-02-28,4.57,True
+DRV-0101,Aydos Ismoilov,Chevrolet Cobalt,2026-05-09,4.84,True
+DRV-0102,Timur Ergashev,Chevrolet Tracker,2025-04-01,4.95,True
+DRV-0103,Nodir Xolmatov,Chevrolet Onix,2019-08-12,4.71,True
+DRV-0104,Aziz Saidov,Chevrolet Cobalt,2020-12-30,4.69,True
+DRV-0105,Sardor Sobirov,Chevrolet Malibu,2021-11-12,4.49,True
+DRV-0106,Aydos Ismoilov,BYD Song Plus,2023-11-28,4.6,True
+DRV-0107,Bekzod Ergashev,Chevrolet Nexia 3,2025-06-06,4.6,False
+DRV-0108,Doston Nazarov,Chevrolet Cobalt,2023-02-17,4.92,True
+DRV-0109,Aydos Ismoilov,Chevrolet Gentra,2021-04-14,4.56,False
+DRV-0110,Davron Jumaniyozov,BYD Song Plus,2026-04-10,4.72,True
+DRV-0111,Bekzod Karimov,Chevrolet Cobalt,2022-03-23,4.69,False
+DRV-0112,Timur Abdullayev,Chevrolet Nexia 3,2024-04-10,4.54,True
+DRV-0113,Rustam Jumaniyozov,Chevrolet Gentra,2020-01-17,4.44,True
+DRV-0114,Jasur Hamidov,Chevrolet Cobalt,2022-04-04,4.89,True
+DRV-0115,Kamol Hamidov,Chevrolet Cobalt,2020-05-19,4.43,True
+DRV-0116,Shoxrux Tojiboyev,Chevrolet Onix,2019-05-29,4.79,True
+DRV-0117,Shoxrux Rashidov,Chevrolet Cobalt,2022-01-08,4.41,True
+DRV-0118,Oybek Bakirov,Chevrolet Cobalt,2022-12-01,4.95,True
+DRV-0119,Bekzod Xolmatov,Chevrolet Cobalt,2021-11-18,4.74,True
+DRV-0120,Malika Sobirova,Chevrolet Gentra,2025-11-03,4.9,True
+DRV-0121,Islom Umarov,Chevrolet Cobalt,2025-02-07,4.52,True
+DRV-0122,Javlon Rahimov,BYD Song Plus,2022-06-19,4.7,True
+DRV-0123,Kamol Sobirov,Chevrolet Gentra,2019-06-16,4.64,True
+DRV-0124,Timur Hamidov,Chevrolet Malibu,2021-08-05,4.56,False
+DRV-0125,Aydos Yusupov,Chevrolet Gentra,2023-08-29,4.74,False
+DRV-0126,Timur Ismoilov,Chevrolet Cobalt,2020-02-10,4.45,True
+DRV-0127,Bekzod Jumaniyozov,Chevrolet Tracker,2025-04-29,4.42,False
+DRV-0128,Nodir Tojiboyev,Chevrolet Nexia 3,2026-03-26,4.91,False
+DRV-0129,Islom Nazarov,BYD Song Plus,2019-09-09,4.92,True
+DRV-0130,Dilnoza Nazarova,Chevrolet Cobalt,2024-06-12,4.47,False
+DRV-0131,Davron Jumaniyozov,Chevrolet Cobalt,2024-12-15,4.84,True
+DRV-0132,Shoxrux Jumaniyozov,Chevrolet Cobalt,2023-07-27,4.89,True
+DRV-0133,Bekzod Rashidov,Chevrolet Cobalt,2026-09-24,4.38,False
+DRV-0134,Akmal Nazarov,Chevrolet Cobalt,2023-08-24,4.56,True
+DRV-0135,Madina Tursunova,Chevrolet Onix,2020-08-15,4.57,False
+DRV-0136,Islom Qodirov,Chevrolet Gentra,2020-10-31,4.77,True
+DRV-0137,Farrukh Yusupov,Chevrolet Cobalt,2020-03-01,4.76,False
+DRV-0138,Timur Ortiqov,Chevrolet Gentra,2020-02-04,4.72,True
+DRV-0139,Otabek Qodirov,Chevrolet Gentra,2022-07-27,4.82,True
+DRV-0140,Shoxrux Ismoilov,Chevrolet Gentra,2019-04-12,4.98,False
+DRV-0141,Otabek Tojiboyev,Chevrolet Cobalt,2026-08-12,4.86,True
+DRV-0142,Islom Hamidov,BYD Song Plus,2020-06-06,4.81,True
+DRV-0143,Rustam Abdullayev,Chevrolet Cobalt,2019-05-23,4.77,True
+DRV-0144,Jasur Karimov,Chevrolet Cobalt,2020-03-29,4.55,True
+DRV-0145,Bekzod Rashidov,Chevrolet Cobalt,2024-02-21,4.88,True
+DRV-0146,Ulugbek Bakirov,Chevrolet Malibu,2022-09-03,4.62,False
+DRV-0147,Anvar Nazarov,Chevrolet Cobalt,2022-06-19,4.78,True
+DRV-0148,Jasur Xolmatov,Chevrolet Spark,2021-09-27,4.71,True
+DRV-0149,Shoxrux Rashidov,Chevrolet Gentra,2022-07-23,4.82,False
+DRV-0150,Bekzod Saidov,Chevrolet Gentra,2021-11-18,4.7,True
+DRV-0151,Aydos Nazarov,Chevrolet Cobalt,2026-09-04,4.86,True
+DRV-0152,Alisher Umarov,Chevrolet Nexia 3,2022-08-09,4.7,True
+DRV-0153,Aydos Jumaniyozov,Chevrolet Spark,2021-09-10,4.76,False
+DRV-0154,Murod Hamidov,Chevrolet Gentra,2026-01-19,4.77,True
+DRV-0155,Aziz Rashidov,Chevrolet Malibu,2023-11-20,4.68,True
+DRV-0156,Otabek Mirzayev,Chevrolet Nexia 3,2025-06-07,4.91,True
+DRV-0157,Sherzod Karimov,Chevrolet Nexia 3,2021-02-14,4.86,True
+DRV-0158,Sherzod Ismoilov,Chevrolet Nexia 3,2023-05-10,4.99,True
+DRV-0159,Bekzod Nazarov,Chevrolet Cobalt,2025-11-27,4.51,True
+DRV-0160,Akmal Yusupov,Chevrolet Gentra,2022-08-24,4.91,True
+DRV-0161,Bekzod Xolmatov,Chevrolet Cobalt,2026-03-13,4.47,True
+DRV-0162,Shoxrux Nazarov,Chevrolet Onix,2024-08-10,4.89,True
+DRV-0163,Bekzod Qodirov,Chevrolet Cobalt,2020-04-11,4.49,False
+DRV-0164,Murod Abdullayev,Chevrolet Gentra,2024-05-12,4.96,True
+DRV-0165,Timur Rahimov,BYD Song Plus,2020-04-07,4.73,False
+DRV-0166,Shoxrux Tursunov,Chevrolet Nexia 3,2025-01-14,4.72,True
+DRV-0167,Alisher Karimov,Chevrolet Cobalt,2025-12-17,4.94,True
+DRV-0168,Timur Yusupov,Chevrolet Cobalt,2020-01-05,4.88,True
+DRV-0169,Aydos Bakirov,Chevrolet Gentra,2026-01-21,4.79,True
+DRV-0170,Nodir Bakirov,Chevrolet Cobalt,2023-11-11,4.86,True
+DRV-0171,Oybek Tojiboyev,Chevrolet Gentra,2022-01-31,4.63,True
+DRV-0172,Nodir Tojiboyev,Chevrolet Tracker,2022-08-17,4.85,False
+DRV-0173,Malika Qodirova,Chevrolet Cobalt,2025-11-25,4.91,True
+DRV-0174,Farrukh Yusupov,Chevrolet Onix,2026-06-01,4.85,True
+DRV-0175,Aydos Yusupov,Chevrolet Nexia 3,2024-03-29,4.7,True
+DRV-0176,Timur Mirzayev,Chevrolet Gentra,2021-12-23,4.69,False
+DRV-0177,Anvar Rahimov,Chevrolet Cobalt,2022-06-17,4.72,True
+DRV-0178,Farrukh Xolmatov,Chevrolet Gentra,2022-07-11,4.45,False
+DRV-0179,Doston Nazarov,BYD Song Plus,2021-09-23,4.63,True
+DRV-0180,Jasur Bakirov,Chevrolet Onix,2026-09-28,4.93,True
+DRV-0181,Aydos Ergashev,Chevrolet Gentra,2021-09-25,4.81,True
+DRV-0182,Oybek Tursunov,BYD Song Plus,2023-07-07,4.92,True
+DRV-0183,Ulugbek Karimov,Chevrolet Nexia 3,2023-10-01,4.89,False
+DRV-0184,Bobur Tojiboyev,Chevrolet Gentra,2023-10-24,4.89,True
+DRV-0185,Farrukh Jumaniyozov,Chevrolet Cobalt,2019-09-16,4.93,True
+DRV-0186,Davron Umarov,BYD Song Plus,2020-10-22,4.72,True
+DRV-0187,Rustam Abdullayev,Chevrolet Cobalt,2024-05-05,4.87,True
+DRV-0188,Madina Ergasheva,Chevrolet Cobalt,2021-04-30,4.67,True
+DRV-0189,Aziz Tursunov,Chevrolet Cobalt,2023-04-12,4.71,True
+DRV-0190,Doston Nazarov,Chevrolet Cobalt,2022-07-26,4.78,True
+DRV-0191,Timur Qodirov,Chevrolet Cobalt,2020-09-14,4.78,True
+DRV-0192,Kamol Yusupov,Chevrolet Cobalt,2026-05-31,4.63,True
+DRV-0193,Davron Mirzayev,Chevrolet Cobalt,2025-11-02,4.87,True
+DRV-0194,Shahnoza Jumaniyozova,BYD Song Plus,2021-09-13,4.88,True
+DRV-0195,Bekzod Ergashev,Chevrolet Nexia 3,2023-07-26,4.93,True
+DRV-0196,Rustam Nazarov,BYD Song Plus,2023-10-23,4.85,True
+DRV-0197,Ulugbek Rahimov,Chevrolet Cobalt,2024-01-15,4.65,True
+DRV-0198,Shahnoza Jumaniyozova,Chevrolet Cobalt,2021-06-05,4.59,True
+DRV-0199,Aydos Umarov,Chevrolet Malibu,2022-11-29,4.5,True
+DRV-0200,Murod Ortiqov,Chevrolet Gentra,2024-08-22,4.43,False

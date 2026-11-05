@@ -1,0 +1,1403 @@
+<?xml version='1.0' encoding='utf-8'?>
+<drivers department="Driver Partnerships">
+  <driver id="DRV-0001">
+    <full_name>Jasur Hamidov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2021-08-31</join_date>
+    <rating>4.76</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0002">
+    <full_name>Oybek Ortiqov</full_name>
+    <car_model>Chevrolet Gentra</car_model>
+    <join_date>2024-08-31</join_date>
+    <rating>4.72</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0003">
+    <full_name>Ulugbek Bakirov</full_name>
+    <car_model>Chevrolet Gentra</car_model>
+    <join_date>2020-04-05</join_date>
+    <rating>4.62</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0004">
+    <full_name>Rustam Xolmatov</full_name>
+    <car_model>Chevrolet Malibu</car_model>
+    <join_date>2023-01-23</join_date>
+    <rating>4.84</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0005">
+    <full_name>Oybek Hamidov</full_name>
+    <car_model>Chevrolet Tracker</car_model>
+    <join_date>2022-12-24</join_date>
+    <rating>4.88</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0006">
+    <full_name>Anvar Abdullayev</full_name>
+    <car_model>Chevrolet Gentra</car_model>
+    <join_date>2025-08-21</join_date>
+    <rating>4.65</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0007">
+    <full_name>Farrukh Tojiboyev</full_name>
+    <car_model>Chevrolet Malibu</car_model>
+    <join_date>2025-09-24</join_date>
+    <rating>4.69</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0008">
+    <full_name>Farrukh Bakirov</full_name>
+    <car_model>Chevrolet Malibu</car_model>
+    <join_date>2025-01-16</join_date>
+    <rating>4.72</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0009">
+    <full_name>Aziz Umarov</full_name>
+    <car_model>Chevrolet Nexia 3</car_model>
+    <join_date>2025-08-13</join_date>
+    <rating>4.93</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0010">
+    <full_name>Jasur Hamidov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2026-02-20</join_date>
+    <rating>4.44</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0011">
+    <full_name>Bekzod Yusupov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2026-09-21</join_date>
+    <rating>4.91</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0012">
+    <full_name>Farrukh Jumaniyozov</full_name>
+    <car_model>Chevrolet Tracker</car_model>
+    <join_date>2026-09-03</join_date>
+    <rating>4.97</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0013">
+    <full_name>Farrukh Umarov</full_name>
+    <car_model>Chevrolet Gentra</car_model>
+    <join_date>2024-01-07</join_date>
+    <rating>4.82</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0014">
+    <full_name>Alisher Abdullayev</full_name>
+    <car_model>Chevrolet Malibu</car_model>
+    <join_date>2024-04-19</join_date>
+    <rating>4.36</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0015">
+    <full_name>Islom Nazarov</full_name>
+    <car_model>Chevrolet Tracker</car_model>
+    <join_date>2024-05-24</join_date>
+    <rating>4.69</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0016">
+    <full_name>Bobur Jumaniyozov</full_name>
+    <car_model>Chevrolet Malibu</car_model>
+    <join_date>2022-06-01</join_date>
+    <rating>4.88</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0017">
+    <full_name>Sardor Hamidov</full_name>
+    <car_model>Chevrolet Tracker</car_model>
+    <join_date>2023-12-08</join_date>
+    <rating>4.5</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0018">
+    <full_name>Timur Saidov</full_name>
+    <car_model>Chevrolet Nexia 3</car_model>
+    <join_date>2020-03-30</join_date>
+    <rating>4.46</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0019">
+    <full_name>Bekzod Karimov</full_name>
+    <car_model>Chevrolet Malibu</car_model>
+    <join_date>2025-09-03</join_date>
+    <rating>4.55</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0020">
+    <full_name>Alisher Nazarov</full_name>
+    <car_model>Chevrolet Malibu</car_model>
+    <join_date>2019-08-30</join_date>
+    <rating>4.81</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0021">
+    <full_name>Akmal Mirzayev</full_name>
+    <car_model>BYD Song Plus</car_model>
+    <join_date>2026-08-13</join_date>
+    <rating>4.83</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0022">
+    <full_name>Javlon Umarov</full_name>
+    <car_model>Chevrolet Spark</car_model>
+    <join_date>2025-04-13</join_date>
+    <rating>4.94</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0023">
+    <full_name>Aydos Hamidov</full_name>
+    <car_model>Chevrolet Gentra</car_model>
+    <join_date>2026-08-29</join_date>
+    <rating>4.95</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0024">
+    <full_name>Aydos Ortiqov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2023-07-17</join_date>
+    <rating>4.87</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0025">
+    <full_name>Farrukh Karimov</full_name>
+    <car_model>Chevrolet Gentra</car_model>
+    <join_date>2019-12-26</join_date>
+    <rating>4.59</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0026">
+    <full_name>Feruza Karimova</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2022-11-02</join_date>
+    <rating>4.69</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0027">
+    <full_name>Kamol Umarov</full_name>
+    <car_model>Chevrolet Nexia 3</car_model>
+    <join_date>2026-02-05</join_date>
+    <rating>4.92</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0028">
+    <full_name>Bekzod Sobirov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2025-11-14</join_date>
+    <rating>4.77</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0029">
+    <full_name>Sardor Rahimov</full_name>
+    <car_model>Chevrolet Onix</car_model>
+    <join_date>2019-09-02</join_date>
+    <rating>4.78</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0030">
+    <full_name>Murod Nazarov</full_name>
+    <car_model>Chevrolet Tracker</car_model>
+    <join_date>2019-05-23</join_date>
+    <rating>4.44</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0031">
+    <full_name>Javlon Hamidov</full_name>
+    <car_model>Chevrolet Gentra</car_model>
+    <join_date>2020-12-16</join_date>
+    <rating>4.87</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0032">
+    <full_name>Doston Jumaniyozov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2023-06-17</join_date>
+    <rating>4.64</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0033">
+    <full_name>Aydos Umarov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2022-05-22</join_date>
+    <rating>4.63</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0034">
+    <full_name>Nodir Yusupov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2022-03-26</join_date>
+    <rating>4.75</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0035">
+    <full_name>Davron Tursunov</full_name>
+    <car_model>Chevrolet Malibu</car_model>
+    <join_date>2022-11-13</join_date>
+    <rating>4.61</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0036">
+    <full_name>Timur Ismoilov</full_name>
+    <car_model>Chevrolet Spark</car_model>
+    <join_date>2020-12-02</join_date>
+    <rating>4.9</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0037">
+    <full_name>Anvar Nazarov</full_name>
+    <car_model>Chevrolet Onix</car_model>
+    <join_date>2022-04-22</join_date>
+    <rating>4.88</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0038">
+    <full_name>Murod Ergashev</full_name>
+    <car_model>Chevrolet Gentra</car_model>
+    <join_date>2025-05-24</join_date>
+    <rating>4.6</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0039">
+    <full_name>Murod Sobirov</full_name>
+    <car_model>Chevrolet Spark</car_model>
+    <join_date>2019-11-03</join_date>
+    <rating>4.5</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0040">
+    <full_name>Rustam Yusupov</full_name>
+    <car_model>Chevrolet Onix</car_model>
+    <join_date>2025-10-03</join_date>
+    <rating>4.58</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0041">
+    <full_name>Aziz Saidov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2023-10-12</join_date>
+    <rating>4.66</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0042">
+    <full_name>Malika Karimova</full_name>
+    <car_model>Chevrolet Tracker</car_model>
+    <join_date>2019-06-03</join_date>
+    <rating>4.63</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0043">
+    <full_name>Bekzod Mirzayev</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2025-12-21</join_date>
+    <rating>4.79</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0044">
+    <full_name>Sherzod Rashidov</full_name>
+    <car_model>Chevrolet Onix</car_model>
+    <join_date>2025-10-28</join_date>
+    <rating>4.43</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0045">
+    <full_name>Murod Mirzayev</full_name>
+    <car_model>BYD Song Plus</car_model>
+    <join_date>2021-12-25</join_date>
+    <rating>4.91</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0046">
+    <full_name>Ulugbek Sobirov</full_name>
+    <car_model>BYD Song Plus</car_model>
+    <join_date>2022-11-13</join_date>
+    <rating>4.69</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0047">
+    <full_name>Aydos Yusupov</full_name>
+    <car_model>BYD Song Plus</car_model>
+    <join_date>2022-09-27</join_date>
+    <rating>4.88</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0048">
+    <full_name>Oybek Nazarov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2020-06-04</join_date>
+    <rating>4.95</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0049">
+    <full_name>Davron Hamidov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2026-07-08</join_date>
+    <rating>4.43</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0050">
+    <full_name>Otabek Sobirov</full_name>
+    <car_model>Chevrolet Nexia 3</car_model>
+    <join_date>2023-11-19</join_date>
+    <rating>4.53</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0051">
+    <full_name>Shoxrux Karimov</full_name>
+    <car_model>Chevrolet Spark</car_model>
+    <join_date>2025-05-20</join_date>
+    <rating>4.58</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0052">
+    <full_name>Feruza Karimova</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2023-11-06</join_date>
+    <rating>4.55</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0053">
+    <full_name>Sardor Ortiqov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2025-05-13</join_date>
+    <rating>4.94</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0054">
+    <full_name>Nodir Saidov</full_name>
+    <car_model>Chevrolet Malibu</car_model>
+    <join_date>2022-09-21</join_date>
+    <rating>4.89</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0055">
+    <full_name>Otabek Qodirov</full_name>
+    <car_model>Chevrolet Malibu</car_model>
+    <join_date>2024-11-12</join_date>
+    <rating>4.81</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0056">
+    <full_name>Timur Rashidov</full_name>
+    <car_model>Chevrolet Tracker</car_model>
+    <join_date>2021-10-08</join_date>
+    <rating>4.92</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0057">
+    <full_name>Davron Mirzayev</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2024-04-17</join_date>
+    <rating>4.9</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0058">
+    <full_name>Sardor Ortiqov</full_name>
+    <car_model>Chevrolet Nexia 3</car_model>
+    <join_date>2026-03-16</join_date>
+    <rating>4.88</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0059">
+    <full_name>Nodir Mirzayev</full_name>
+    <car_model>Chevrolet Nexia 3</car_model>
+    <join_date>2023-09-28</join_date>
+    <rating>4.35</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0060">
+    <full_name>Rustam Mirzayev</full_name>
+    <car_model>Chevrolet Gentra</car_model>
+    <join_date>2020-09-16</join_date>
+    <rating>4.49</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0061">
+    <full_name>Anvar Jumaniyozov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2025-09-10</join_date>
+    <rating>4.92</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0062">
+    <full_name>Nodir Jumaniyozov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2026-05-21</join_date>
+    <rating>4.71</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0063">
+    <full_name>Akmal Abdullayev</full_name>
+    <car_model>BYD Song Plus</car_model>
+    <join_date>2025-04-20</join_date>
+    <rating>4.51</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0064">
+    <full_name>Ulugbek Nazarov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2022-06-22</join_date>
+    <rating>4.8</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0065">
+    <full_name>Davron Nazarov</full_name>
+    <car_model>Chevrolet Nexia 3</car_model>
+    <join_date>2019-04-08</join_date>
+    <rating>4.96</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0066">
+    <full_name>Zafar Mirzayev</full_name>
+    <car_model>Chevrolet Onix</car_model>
+    <join_date>2025-03-10</join_date>
+    <rating>4.93</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0067">
+    <full_name>Aziz Jumaniyozov</full_name>
+    <car_model>Chevrolet Gentra</car_model>
+    <join_date>2020-06-20</join_date>
+    <rating>4.57</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0068">
+    <full_name>Doston Karimov</full_name>
+    <car_model>Chevrolet Tracker</car_model>
+    <join_date>2023-04-16</join_date>
+    <rating>4.82</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0069">
+    <full_name>Akmal Qodirov</full_name>
+    <car_model>Chevrolet Gentra</car_model>
+    <join_date>2024-08-05</join_date>
+    <rating>4.8</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0070">
+    <full_name>Davron Saidov</full_name>
+    <car_model>Chevrolet Malibu</car_model>
+    <join_date>2020-06-24</join_date>
+    <rating>4.48</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0071">
+    <full_name>Timur Hamidov</full_name>
+    <car_model>Chevrolet Tracker</car_model>
+    <join_date>2024-04-10</join_date>
+    <rating>4.53</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0072">
+    <full_name>Zafar Tursunov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2022-08-30</join_date>
+    <rating>4.47</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0073">
+    <full_name>Akmal Sobirov</full_name>
+    <car_model>Chevrolet Onix</car_model>
+    <join_date>2022-10-12</join_date>
+    <rating>4.57</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0074">
+    <full_name>Sherzod Rashidov</full_name>
+    <car_model>Chevrolet Onix</car_model>
+    <join_date>2024-05-09</join_date>
+    <rating>4.9</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0075">
+    <full_name>Kamol Mirzayev</full_name>
+    <car_model>Chevrolet Onix</car_model>
+    <join_date>2023-06-11</join_date>
+    <rating>4.68</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0076">
+    <full_name>Akmal Abdullayev</full_name>
+    <car_model>Chevrolet Nexia 3</car_model>
+    <join_date>2020-06-25</join_date>
+    <rating>4.79</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0077">
+    <full_name>Rustam Abdullayev</full_name>
+    <car_model>Chevrolet Malibu</car_model>
+    <join_date>2021-10-15</join_date>
+    <rating>4.73</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0078">
+    <full_name>Bekzod Saidov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2026-04-06</join_date>
+    <rating>4.87</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0079">
+    <full_name>Murod Sobirov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2024-09-16</join_date>
+    <rating>4.85</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0080">
+    <full_name>Aydos Jumaniyozov</full_name>
+    <car_model>Chevrolet Malibu</car_model>
+    <join_date>2023-02-10</join_date>
+    <rating>4.94</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0081">
+    <full_name>Nigora Ismoilova</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2020-08-16</join_date>
+    <rating>4.71</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0082">
+    <full_name>Islom Umarov</full_name>
+    <car_model>Chevrolet Onix</car_model>
+    <join_date>2022-12-17</join_date>
+    <rating>4.72</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0083">
+    <full_name>Zafar Saidov</full_name>
+    <car_model>Chevrolet Spark</car_model>
+    <join_date>2021-07-04</join_date>
+    <rating>4.82</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0084">
+    <full_name>Malika Mirzayeva</full_name>
+    <car_model>Chevrolet Gentra</car_model>
+    <join_date>2025-03-16</join_date>
+    <rating>4.81</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0085">
+    <full_name>Sherzod Qodirov</full_name>
+    <car_model>BYD Song Plus</car_model>
+    <join_date>2025-12-16</join_date>
+    <rating>4.56</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0086">
+    <full_name>Murod Sobirov</full_name>
+    <car_model>Chevrolet Onix</car_model>
+    <join_date>2025-10-07</join_date>
+    <rating>4.49</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0087">
+    <full_name>Malika Sobirova</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2024-06-10</join_date>
+    <rating>4.64</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0088">
+    <full_name>Islom Bakirov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2022-10-30</join_date>
+    <rating>4.68</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0089">
+    <full_name>Timur Karimov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2022-01-03</join_date>
+    <rating>4.75</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0090">
+    <full_name>Farrukh Hamidov</full_name>
+    <car_model>Chevrolet Nexia 3</car_model>
+    <join_date>2022-07-28</join_date>
+    <rating>4.69</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0091">
+    <full_name>Davron Tursunov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2026-07-30</join_date>
+    <rating>4.72</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0092">
+    <full_name>Nodir Umarov</full_name>
+    <car_model>Chevrolet Gentra</car_model>
+    <join_date>2025-01-07</join_date>
+    <rating>4.9</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0093">
+    <full_name>Shoxrux Mirzayev</full_name>
+    <car_model>Chevrolet Nexia 3</car_model>
+    <join_date>2021-02-12</join_date>
+    <rating>4.83</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0094">
+    <full_name>Farrukh Hamidov</full_name>
+    <car_model>BYD Song Plus</car_model>
+    <join_date>2026-03-26</join_date>
+    <rating>4.95</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0095">
+    <full_name>Aydos Tojiboyev</full_name>
+    <car_model>Chevrolet Gentra</car_model>
+    <join_date>2024-11-09</join_date>
+    <rating>4.6</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0096">
+    <full_name>Anvar Saidov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2024-08-22</join_date>
+    <rating>4.6</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0097">
+    <full_name>Farrukh Mirzayev</full_name>
+    <car_model>Chevrolet Onix</car_model>
+    <join_date>2025-02-18</join_date>
+    <rating>4.9</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0098">
+    <full_name>Javlon Jumaniyozov</full_name>
+    <car_model>Chevrolet Gentra</car_model>
+    <join_date>2020-10-10</join_date>
+    <rating>4.55</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0099">
+    <full_name>Bobur Rahimov</full_name>
+    <car_model>Chevrolet Malibu</car_model>
+    <join_date>2022-04-22</join_date>
+    <rating>4.83</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0100">
+    <full_name>Anvar Saidov</full_name>
+    <car_model>BYD Song Plus</car_model>
+    <join_date>2023-02-28</join_date>
+    <rating>4.57</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0101">
+    <full_name>Aydos Ismoilov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2026-05-09</join_date>
+    <rating>4.84</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0102">
+    <full_name>Timur Ergashev</full_name>
+    <car_model>Chevrolet Tracker</car_model>
+    <join_date>2025-04-01</join_date>
+    <rating>4.95</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0103">
+    <full_name>Nodir Xolmatov</full_name>
+    <car_model>Chevrolet Onix</car_model>
+    <join_date>2019-08-12</join_date>
+    <rating>4.71</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0104">
+    <full_name>Aziz Saidov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2020-12-30</join_date>
+    <rating>4.69</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0105">
+    <full_name>Sardor Sobirov</full_name>
+    <car_model>Chevrolet Malibu</car_model>
+    <join_date>2021-11-12</join_date>
+    <rating>4.49</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0106">
+    <full_name>Aydos Ismoilov</full_name>
+    <car_model>BYD Song Plus</car_model>
+    <join_date>2023-11-28</join_date>
+    <rating>4.6</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0107">
+    <full_name>Bekzod Ergashev</full_name>
+    <car_model>Chevrolet Nexia 3</car_model>
+    <join_date>2025-06-06</join_date>
+    <rating>4.6</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0108">
+    <full_name>Doston Nazarov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2023-02-17</join_date>
+    <rating>4.92</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0109">
+    <full_name>Aydos Ismoilov</full_name>
+    <car_model>Chevrolet Gentra</car_model>
+    <join_date>2021-04-14</join_date>
+    <rating>4.56</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0110">
+    <full_name>Davron Jumaniyozov</full_name>
+    <car_model>BYD Song Plus</car_model>
+    <join_date>2026-04-10</join_date>
+    <rating>4.72</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0111">
+    <full_name>Bekzod Karimov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2022-03-23</join_date>
+    <rating>4.69</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0112">
+    <full_name>Timur Abdullayev</full_name>
+    <car_model>Chevrolet Nexia 3</car_model>
+    <join_date>2024-04-10</join_date>
+    <rating>4.54</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0113">
+    <full_name>Rustam Jumaniyozov</full_name>
+    <car_model>Chevrolet Gentra</car_model>
+    <join_date>2020-01-17</join_date>
+    <rating>4.44</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0114">
+    <full_name>Jasur Hamidov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2022-04-04</join_date>
+    <rating>4.89</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0115">
+    <full_name>Kamol Hamidov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2020-05-19</join_date>
+    <rating>4.43</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0116">
+    <full_name>Shoxrux Tojiboyev</full_name>
+    <car_model>Chevrolet Onix</car_model>
+    <join_date>2019-05-29</join_date>
+    <rating>4.79</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0117">
+    <full_name>Shoxrux Rashidov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2022-01-08</join_date>
+    <rating>4.41</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0118">
+    <full_name>Oybek Bakirov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2022-12-01</join_date>
+    <rating>4.95</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0119">
+    <full_name>Bekzod Xolmatov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2021-11-18</join_date>
+    <rating>4.74</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0120">
+    <full_name>Malika Sobirova</full_name>
+    <car_model>Chevrolet Gentra</car_model>
+    <join_date>2025-11-03</join_date>
+    <rating>4.9</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0121">
+    <full_name>Islom Umarov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2025-02-07</join_date>
+    <rating>4.52</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0122">
+    <full_name>Javlon Rahimov</full_name>
+    <car_model>BYD Song Plus</car_model>
+    <join_date>2022-06-19</join_date>
+    <rating>4.7</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0123">
+    <full_name>Kamol Sobirov</full_name>
+    <car_model>Chevrolet Gentra</car_model>
+    <join_date>2019-06-16</join_date>
+    <rating>4.64</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0124">
+    <full_name>Timur Hamidov</full_name>
+    <car_model>Chevrolet Malibu</car_model>
+    <join_date>2021-08-05</join_date>
+    <rating>4.56</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0125">
+    <full_name>Aydos Yusupov</full_name>
+    <car_model>Chevrolet Gentra</car_model>
+    <join_date>2023-08-29</join_date>
+    <rating>4.74</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0126">
+    <full_name>Timur Ismoilov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2020-02-10</join_date>
+    <rating>4.45</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0127">
+    <full_name>Bekzod Jumaniyozov</full_name>
+    <car_model>Chevrolet Tracker</car_model>
+    <join_date>2025-04-29</join_date>
+    <rating>4.42</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0128">
+    <full_name>Nodir Tojiboyev</full_name>
+    <car_model>Chevrolet Nexia 3</car_model>
+    <join_date>2026-03-26</join_date>
+    <rating>4.91</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0129">
+    <full_name>Islom Nazarov</full_name>
+    <car_model>BYD Song Plus</car_model>
+    <join_date>2019-09-09</join_date>
+    <rating>4.92</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0130">
+    <full_name>Dilnoza Nazarova</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2024-06-12</join_date>
+    <rating>4.47</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0131">
+    <full_name>Davron Jumaniyozov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2024-12-15</join_date>
+    <rating>4.84</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0132">
+    <full_name>Shoxrux Jumaniyozov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2023-07-27</join_date>
+    <rating>4.89</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0133">
+    <full_name>Bekzod Rashidov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2026-09-24</join_date>
+    <rating>4.38</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0134">
+    <full_name>Akmal Nazarov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2023-08-24</join_date>
+    <rating>4.56</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0135">
+    <full_name>Madina Tursunova</full_name>
+    <car_model>Chevrolet Onix</car_model>
+    <join_date>2020-08-15</join_date>
+    <rating>4.57</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0136">
+    <full_name>Islom Qodirov</full_name>
+    <car_model>Chevrolet Gentra</car_model>
+    <join_date>2020-10-31</join_date>
+    <rating>4.77</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0137">
+    <full_name>Farrukh Yusupov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2020-03-01</join_date>
+    <rating>4.76</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0138">
+    <full_name>Timur Ortiqov</full_name>
+    <car_model>Chevrolet Gentra</car_model>
+    <join_date>2020-02-04</join_date>
+    <rating>4.72</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0139">
+    <full_name>Otabek Qodirov</full_name>
+    <car_model>Chevrolet Gentra</car_model>
+    <join_date>2022-07-27</join_date>
+    <rating>4.82</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0140">
+    <full_name>Shoxrux Ismoilov</full_name>
+    <car_model>Chevrolet Gentra</car_model>
+    <join_date>2019-04-12</join_date>
+    <rating>4.98</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0141">
+    <full_name>Otabek Tojiboyev</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2026-08-12</join_date>
+    <rating>4.86</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0142">
+    <full_name>Islom Hamidov</full_name>
+    <car_model>BYD Song Plus</car_model>
+    <join_date>2020-06-06</join_date>
+    <rating>4.81</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0143">
+    <full_name>Rustam Abdullayev</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2019-05-23</join_date>
+    <rating>4.77</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0144">
+    <full_name>Jasur Karimov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2020-03-29</join_date>
+    <rating>4.55</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0145">
+    <full_name>Bekzod Rashidov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2024-02-21</join_date>
+    <rating>4.88</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0146">
+    <full_name>Ulugbek Bakirov</full_name>
+    <car_model>Chevrolet Malibu</car_model>
+    <join_date>2022-09-03</join_date>
+    <rating>4.62</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0147">
+    <full_name>Anvar Nazarov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2022-06-19</join_date>
+    <rating>4.78</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0148">
+    <full_name>Jasur Xolmatov</full_name>
+    <car_model>Chevrolet Spark</car_model>
+    <join_date>2021-09-27</join_date>
+    <rating>4.71</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0149">
+    <full_name>Shoxrux Rashidov</full_name>
+    <car_model>Chevrolet Gentra</car_model>
+    <join_date>2022-07-23</join_date>
+    <rating>4.82</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0150">
+    <full_name>Bekzod Saidov</full_name>
+    <car_model>Chevrolet Gentra</car_model>
+    <join_date>2021-11-18</join_date>
+    <rating>4.7</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0151">
+    <full_name>Aydos Nazarov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2026-09-04</join_date>
+    <rating>4.86</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0152">
+    <full_name>Alisher Umarov</full_name>
+    <car_model>Chevrolet Nexia 3</car_model>
+    <join_date>2022-08-09</join_date>
+    <rating>4.7</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0153">
+    <full_name>Aydos Jumaniyozov</full_name>
+    <car_model>Chevrolet Spark</car_model>
+    <join_date>2021-09-10</join_date>
+    <rating>4.76</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0154">
+    <full_name>Murod Hamidov</full_name>
+    <car_model>Chevrolet Gentra</car_model>
+    <join_date>2026-01-19</join_date>
+    <rating>4.77</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0155">
+    <full_name>Aziz Rashidov</full_name>
+    <car_model>Chevrolet Malibu</car_model>
+    <join_date>2023-11-20</join_date>
+    <rating>4.68</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0156">
+    <full_name>Otabek Mirzayev</full_name>
+    <car_model>Chevrolet Nexia 3</car_model>
+    <join_date>2025-06-07</join_date>
+    <rating>4.91</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0157">
+    <full_name>Sherzod Karimov</full_name>
+    <car_model>Chevrolet Nexia 3</car_model>
+    <join_date>2021-02-14</join_date>
+    <rating>4.86</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0158">
+    <full_name>Sherzod Ismoilov</full_name>
+    <car_model>Chevrolet Nexia 3</car_model>
+    <join_date>2023-05-10</join_date>
+    <rating>4.99</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0159">
+    <full_name>Bekzod Nazarov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2025-11-27</join_date>
+    <rating>4.51</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0160">
+    <full_name>Akmal Yusupov</full_name>
+    <car_model>Chevrolet Gentra</car_model>
+    <join_date>2022-08-24</join_date>
+    <rating>4.91</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0161">
+    <full_name>Bekzod Xolmatov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2026-03-13</join_date>
+    <rating>4.47</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0162">
+    <full_name>Shoxrux Nazarov</full_name>
+    <car_model>Chevrolet Onix</car_model>
+    <join_date>2024-08-10</join_date>
+    <rating>4.89</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0163">
+    <full_name>Bekzod Qodirov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2020-04-11</join_date>
+    <rating>4.49</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0164">
+    <full_name>Murod Abdullayev</full_name>
+    <car_model>Chevrolet Gentra</car_model>
+    <join_date>2024-05-12</join_date>
+    <rating>4.96</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0165">
+    <full_name>Timur Rahimov</full_name>
+    <car_model>BYD Song Plus</car_model>
+    <join_date>2020-04-07</join_date>
+    <rating>4.73</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0166">
+    <full_name>Shoxrux Tursunov</full_name>
+    <car_model>Chevrolet Nexia 3</car_model>
+    <join_date>2025-01-14</join_date>
+    <rating>4.72</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0167">
+    <full_name>Alisher Karimov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2025-12-17</join_date>
+    <rating>4.94</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0168">
+    <full_name>Timur Yusupov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2020-01-05</join_date>
+    <rating>4.88</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0169">
+    <full_name>Aydos Bakirov</full_name>
+    <car_model>Chevrolet Gentra</car_model>
+    <join_date>2026-01-21</join_date>
+    <rating>4.79</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0170">
+    <full_name>Nodir Bakirov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2023-11-11</join_date>
+    <rating>4.86</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0171">
+    <full_name>Oybek Tojiboyev</full_name>
+    <car_model>Chevrolet Gentra</car_model>
+    <join_date>2022-01-31</join_date>
+    <rating>4.63</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0172">
+    <full_name>Nodir Tojiboyev</full_name>
+    <car_model>Chevrolet Tracker</car_model>
+    <join_date>2022-08-17</join_date>
+    <rating>4.85</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0173">
+    <full_name>Malika Qodirova</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2025-11-25</join_date>
+    <rating>4.91</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0174">
+    <full_name>Farrukh Yusupov</full_name>
+    <car_model>Chevrolet Onix</car_model>
+    <join_date>2026-06-01</join_date>
+    <rating>4.85</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0175">
+    <full_name>Aydos Yusupov</full_name>
+    <car_model>Chevrolet Nexia 3</car_model>
+    <join_date>2024-03-29</join_date>
+    <rating>4.7</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0176">
+    <full_name>Timur Mirzayev</full_name>
+    <car_model>Chevrolet Gentra</car_model>
+    <join_date>2021-12-23</join_date>
+    <rating>4.69</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0177">
+    <full_name>Anvar Rahimov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2022-06-17</join_date>
+    <rating>4.72</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0178">
+    <full_name>Farrukh Xolmatov</full_name>
+    <car_model>Chevrolet Gentra</car_model>
+    <join_date>2022-07-11</join_date>
+    <rating>4.45</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0179">
+    <full_name>Doston Nazarov</full_name>
+    <car_model>BYD Song Plus</car_model>
+    <join_date>2021-09-23</join_date>
+    <rating>4.63</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0180">
+    <full_name>Jasur Bakirov</full_name>
+    <car_model>Chevrolet Onix</car_model>
+    <join_date>2026-09-28</join_date>
+    <rating>4.93</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0181">
+    <full_name>Aydos Ergashev</full_name>
+    <car_model>Chevrolet Gentra</car_model>
+    <join_date>2021-09-25</join_date>
+    <rating>4.81</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0182">
+    <full_name>Oybek Tursunov</full_name>
+    <car_model>BYD Song Plus</car_model>
+    <join_date>2023-07-07</join_date>
+    <rating>4.92</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0183">
+    <full_name>Ulugbek Karimov</full_name>
+    <car_model>Chevrolet Nexia 3</car_model>
+    <join_date>2023-10-01</join_date>
+    <rating>4.89</rating>
+    <is_active>false</is_active>
+  </driver>
+  <driver id="DRV-0184">
+    <full_name>Bobur Tojiboyev</full_name>
+    <car_model>Chevrolet Gentra</car_model>
+    <join_date>2023-10-24</join_date>
+    <rating>4.89</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0185">
+    <full_name>Farrukh Jumaniyozov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2019-09-16</join_date>
+    <rating>4.93</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0186">
+    <full_name>Davron Umarov</full_name>
+    <car_model>BYD Song Plus</car_model>
+    <join_date>2020-10-22</join_date>
+    <rating>4.72</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0187">
+    <full_name>Rustam Abdullayev</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2024-05-05</join_date>
+    <rating>4.87</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0188">
+    <full_name>Madina Ergasheva</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2021-04-30</join_date>
+    <rating>4.67</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0189">
+    <full_name>Aziz Tursunov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2023-04-12</join_date>
+    <rating>4.71</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0190">
+    <full_name>Doston Nazarov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2022-07-26</join_date>
+    <rating>4.78</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0191">
+    <full_name>Timur Qodirov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2020-09-14</join_date>
+    <rating>4.78</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0192">
+    <full_name>Kamol Yusupov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2026-05-31</join_date>
+    <rating>4.63</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0193">
+    <full_name>Davron Mirzayev</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2025-11-02</join_date>
+    <rating>4.87</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0194">
+    <full_name>Shahnoza Jumaniyozova</full_name>
+    <car_model>BYD Song Plus</car_model>
+    <join_date>2021-09-13</join_date>
+    <rating>4.88</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0195">
+    <full_name>Bekzod Ergashev</full_name>
+    <car_model>Chevrolet Nexia 3</car_model>
+    <join_date>2023-07-26</join_date>
+    <rating>4.93</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0196">
+    <full_name>Rustam Nazarov</full_name>
+    <car_model>BYD Song Plus</car_model>
+    <join_date>2023-10-23</join_date>
+    <rating>4.85</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0197">
+    <full_name>Ulugbek Rahimov</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2024-01-15</join_date>
+    <rating>4.65</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0198">
+    <full_name>Shahnoza Jumaniyozova</full_name>
+    <car_model>Chevrolet Cobalt</car_model>
+    <join_date>2021-06-05</join_date>
+    <rating>4.59</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0199">
+    <full_name>Aydos Umarov</full_name>
+    <car_model>Chevrolet Malibu</car_model>
+    <join_date>2022-11-29</join_date>
+    <rating>4.5</rating>
+    <is_active>true</is_active>
+  </driver>
+  <driver id="DRV-0200">
+    <full_name>Murod Ortiqov</full_name>
+    <car_model>Chevrolet Gentra</car_model>
+    <join_date>2024-08-22</join_date>
+    <rating>4.43</rating>
+    <is_active>false</is_active>
+  </driver>
+</drivers>
